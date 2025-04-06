@@ -185,4 +185,4 @@ async def main(file_path, semaphore):
 
 
 if __name__ == '__main__':
-    asyncio.run(main("D:\\WorkSpace\\web3Task\\社交签到\\voyage\\config.txt", 1))
+    asyncio.run(main("config.txt", 1))
